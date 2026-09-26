@@ -1,0 +1,20 @@
+{
+  "uuid": "d4df6626-1ec5-4038-9fc0-d938df01f90d",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | ФР.1.31.2007.03428 (ЦВ 3.04.64-2006) | Вода природная, Вода сточная | - | - | Сероводород и сульфиды | (0,002 - 30) мг/дм3",
+      "norm_doc": "ФР.1.31.2007.03428 (ЦВ 3.04.64-2006)",
+      "object": "Вода природная, Вода сточная",
+      "indicator": "Сероводород и сульфиды",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,002",
+      "range_to": "30",
+      "unit": "мг/дм3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document is a 2-page attachment (Приложение №1) to accreditation certificate RA.RU.511198; page 1 contains the single-row scope table (object cell lists two objects on separate lines, combined here), page 2 is a signature/seal page with no table rows. No ТР ТС section headings present in the document, so tr_section is null throughout."
+}
