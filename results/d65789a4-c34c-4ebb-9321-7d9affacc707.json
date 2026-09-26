@@ -1,0 +1,68 @@
+{
+  "uuid": "d65789a4-c34c-4ebb-9321-7d9affacc707",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 33817-2016 (рабочая дегустация) | Спирт этиловый ректификованный из пищевого сырья Спирт этиловый - сырец из пищевого сырья | 11.01.10.112 | - | Внешний вид (прозрачность, наличие посторонних включений (частиц), цвет) | (0-2) балл",
+      "indicator": "Внешний вид (прозрачность, наличие посторонних включений (частиц), цвет)",
+      "range_from": "0",
+      "range_to": "2",
+      "unit": "балл",
+      "norm_doc": "ГОСТ 33817-2016 (рабочая дегустация)",
+      "object": "Спирт этиловый ректификованный из пищевого сырья, Спирт этиловый - сырец из пищевого сырья",
+      "okpd2_code": "11.01.10.112",
+      "tnved_code": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ГОСТ 33817-2016 (рабочая дегустация) | Спирт этиловый ректификованный из пищевого сырья Спирт этиловый - сырец из пищевого сырья | 11.01.10.112 | - | Запах | (0-4) балл",
+      "indicator": "Запах",
+      "range_from": "0",
+      "range_to": "4",
+      "unit": "балл",
+      "norm_doc": "ГОСТ 33817-2016 (рабочая дегустация)",
+      "object": "Спирт этиловый ректификованный из пищевого сырья, Спирт этиловый - сырец из пищевого сырья",
+      "okpd2_code": "11.01.10.112",
+      "tnved_code": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ГОСТ 33817-2016 (рабочая дегустация) | Спирт этиловый ректификованный из пищевого сырья Спирт этиловый - сырец из пищевого сырья | 11.01.10.112 | - | Вкус | (0-4) балл",
+      "indicator": "Вкус",
+      "range_from": "0",
+      "range_to": "4",
+      "unit": "балл",
+      "norm_doc": "ГОСТ 33817-2016 (рабочая дегустация)",
+      "object": "Спирт этиловый ректификованный из пищевого сырья, Спирт этиловый - сырец из пищевого сырья",
+      "okpd2_code": "11.01.10.112",
+      "tnved_code": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ Р 57164-2016 п.5.8.2 | Вода питьевая | - | - | Вкус и привкус | (0-5) балл",
+      "norm_doc": "ГОСТ Р 57164-2016 п.5.8.2",
+      "indicator": "Вкус и привкус",
+      "range_from": "0",
+      "range_to": "5",
+      "unit": "балл",
+      "object": "Вода питьевая",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ГОСТ Р 57164-2016 п.5.8.1 | Вода питьевая | - | - | Запах | (0-5) балл",
+      "norm_doc": "ГОСТ Р 57164-2016 п.5.8.1",
+      "indicator": "Запах",
+      "range_from": "0",
+      "range_to": "5",
+      "unit": "балл",
+      "object": "Вода питьевая",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Both pages were rendered sideways (90deg) at 0 declared PDF rotation; re-rendered with set_rotation(90) to read upright. Page 2 contains only signatures/stamps (Гендиректор, эксперт по аккредитации, технический эксперт), no table rows. Document has no ТР ТС section headings, so tr_section is null on every row. Ranges given as balls (score ranges, e.g. (0-2) балл) rather than numeric measurement ranges but format matches range_from/range_to/unit schema."
+}
