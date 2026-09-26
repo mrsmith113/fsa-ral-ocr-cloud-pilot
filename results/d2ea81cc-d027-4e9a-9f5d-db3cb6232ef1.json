@@ -1,0 +1,44 @@
+{
+  "uuid": "d2ea81cc-d027-4e9a-9f5d-db3cb6232ef1",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1. | ГОСТ 26075 п. 9 | Головной мозг | - | - | Вирус бешенства (биопроба) | Выделен / Не выделен",
+      "norm_doc": "ГОСТ 26075 п. 9",
+      "object": "Головной мозг",
+      "indicator": "Вирус бешенства (биопроба)",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "Выделен / Не выделен",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2. | Инструкция по применению набора для выявления антител к вирусу блютанга иммуноферментным методом | Сыворотка крови | - | - | Антитела к вирусу блютанга | Положительная / Отрицательная",
+      "norm_doc": "Инструкция по применению набора для выявления антител к вирусу блютанга иммуноферментным методом",
+      "object": "Сыворотка крови",
+      "indicator": "Антитела к вирусу блютанга",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "Положительная / Отрицательная",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3. | Инструкция по применению набора для выявления антител к вирусу африканской чумы свиней иммуноферментным методом | Сыворотка крови | - | - | Антитела к вирусу африканской чумы свиней | Положительная / Отрицательная / Сомнительная",
+      "norm_doc": "Инструкция по применению набора для выявления антител к вирусу африканской чумы свиней иммуноферментным методом",
+      "object": "Сыворотка крови",
+      "indicator": "Антитела к вирусу африканской чумы свиней",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "Положительная / Отрицательная / Сомнительная",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Single-page document, scanned rotated 90 degrees in the source PDF; re-rendered upright at 170dpi for transcription. No ТР ТС section headings present, so tr_section is null on all rows. Range column values are qualitative (positive/negative/etc.), not numeric ranges, so they are placed in range_from as text per the schema's non-numeric-range rule; range_to and unit are null."
+}
