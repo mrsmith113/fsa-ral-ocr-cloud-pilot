@@ -1,0 +1,20 @@
+{
+  "uuid": "d54cfde0-1018-4854-8d58-5c0b9b064057",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | Санитарно-эпидемиологическая экспертиза | 1.8.Проектная, техническая и иная документация (СЗЗ, ПДВ, НДС, ЗСО, ЗОЗ, ПРТО, ПНООЛР, и др. / проектирование, первоначальная инспекция, инспекция в процессе эксплуатации) | - | - | СанПиН 2.1.4.1110-02 «Зоны санитарной охраны источников водоснабжения и водопроводов питьевого назначения» | -",
+      "norm_doc": "СанПиН 2.1.4.1110-02 «Зоны санитарной охраны источников водоснабжения и водопроводов питьевого назначения»",
+      "object": "Санитарно-эпидемиологическая экспертиза; 1.8.Проектная, техническая и иная документация (СЗЗ, ПДВ, НДС, ЗСО, ЗОЗ, ПРТО, ПНООЛР, и др. / проектирование, первоначальная инспекция, инспекция в процессе эксплуатации)",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "This document is an 'Область аккредитации' (inspection body / орган инспекции) scope table, not a testing-laboratory table: it has no indicator/range/unit columns. Columns present: № пп, Наименование вида инспекции, Область инспекции (подобласть)/стадия инспекции, Код ОК, Код ТН ВЭД ЕАЭС, Документы устанавливающие требования к объектам инспекции, Документы устанавливающие методы инспекции. 'object' combines the inspection type and inspection area/subarea columns since the schema has no dedicated field for inspection type. 'indicator', 'range_from', 'range_to', 'unit' are all null as this document has no such columns. No ТР ТС section headings appear in this single-page document, so tr_section is null. Single page, no rotation needed, fully legible."
+}
