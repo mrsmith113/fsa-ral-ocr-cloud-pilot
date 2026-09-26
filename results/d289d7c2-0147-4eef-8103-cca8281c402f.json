@@ -1,0 +1,32 @@
+{
+  "uuid": "d289d7c2-0147-4eef-8103-cca8281c402f",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1.1.1. | ГОСТ 4011, п.3 | Вода питьевая. | 36.00.11.000 | Из 2201-2202 | Массовая концентрация общего железа | (0,05-2,0) мг/дм3",
+      "norm_doc": "ГОСТ 4011, п.3",
+      "object": "Вода питьевая.",
+      "indicator": "Массовая концентрация общего железа",
+      "okpd2_code": "36.00.11.000",
+      "tnved_code": "Из 2201-2202",
+      "range_from": "0,05",
+      "range_to": "2,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1.1.2. | ПНД Ф 14.1:2:4.50 | Вода питьевая, поверхностные и сточные воды. | 36.00.11.000 | Из 2201-2202 | Массовая концентрация железа | (0,05-10) мг/дм3 более 10 мг/дм3",
+      "norm_doc": "ПНД Ф 14.1:2:4.50",
+      "object": "Вода питьевая, поверхностные и сточные воды.",
+      "indicator": "Массовая концентрация железа",
+      "okpd2_code": "36.00.11.000",
+      "tnved_code": "Из 2201-2202",
+      "range_from": "0,05",
+      "range_to": "10",
+      "unit": "мг/дм3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document is only 2 pages: page 1 has the accreditation-scope table (header 'на 1 листе, лист 1'), containing exactly 2 data rows (1.1.1, 1.1.2), followed directly by the signature block on the same page; page 2 is a signature/seal page for the expert group with no table rows. No rotated pages. Row 1.1.2's diapason cell has an extra unbounded line 'более 10 мг/дм3' (>10 mg/dm3) beyond the primary range (0,05-10) мг/дм3; range_from/range_to/unit capture only the primary bounded range, the extra line is preserved verbatim in raw_row_text. No ТР ТС / раздел section headings appear anywhere in the document (only method-category headings like '1. Физико-химические методы' and '1.1. Фотометрический, спектрофотометрический метод', which per rules are not ТР ТС headings), so tr_section is null on all rows. Both rows fully legible, no illegible spots."
+}
