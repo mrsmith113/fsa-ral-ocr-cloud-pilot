@@ -1,0 +1,152 @@
+{
+  "uuid": "d4bc8718-b7c7-44a0-9871-7596b935af03",
+  "pages_read": 3,
+  "pages_total": 3,
+  "rows": [
+    {
+      "raw_row_text": "1 | ПНДФ 14.1:2:3.101-97, | Природные воды Сточные воды | | | Растворенный кислород | (1 ÷ 15) мг/дм3",
+      "norm_doc": "ПНДФ 14.1:2:3.101-97",
+      "object": "Природные воды Сточные воды",
+      "indicator": "Растворенный кислород",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "15",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ПНДФ 14.1:2:3.100-97 | Природные воды Сточные воды | | | ХПК | (4 ÷ 2000) мг/дм3",
+      "norm_doc": "ПНДФ 14.1:2:3.100-97",
+      "object": "Природные воды Сточные воды",
+      "indicator": "ХПК",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "4",
+      "range_to": "2000",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ПНД Ф 14.1:2:3.1-95 | Природные воды Сточные воды | | | Аммоний-ион | (0,05 ÷ 150,00) мг/дм3",
+      "norm_doc": "ПНД Ф 14.1:2:3.1-95",
+      "object": "Природные воды Сточные воды",
+      "indicator": "Аммоний-ион",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,05",
+      "range_to": "150,00",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | ПНДФ 14.1:2:3.96-97 | Природные воды Сточные воды | | | Хлорид-ион | (10 ÷ 5000) мг/дм3",
+      "norm_doc": "ПНДФ 14.1:2:3.96-97",
+      "object": "Природные воды Сточные воды",
+      "indicator": "Хлорид-ион",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "10",
+      "range_to": "5000",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "5 | ПНДФ 14.1:2:3.110-97 | Природные воды Сточные воды | | | Взвешенные вещества | (3 ÷ 5000) мг/дм3",
+      "norm_doc": "ПНДФ 14.1:2:3.110-97",
+      "object": "Природные воды Сточные воды",
+      "indicator": "Взвешенные вещества",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "3",
+      "range_to": "5000",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ПНДФ 12.16.1-10 п.6 | Сточные воды очищенные | | | Прозрачность | (0,5 ÷ 30) см",
+      "norm_doc": "ПНДФ 12.16.1-10 п.6",
+      "object": "Сточные воды очищенные",
+      "indicator": "Прозрачность",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,5",
+      "range_to": "30",
+      "unit": "см",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "7 | РД 52.04.823-2015 | Атмосферный воздух | | | Формальдегид | (0,01 ÷ 0,2) мг/м3",
+      "norm_doc": "РД 52.04.823-2015",
+      "object": "Атмосферный воздух",
+      "indicator": "Формальдегид",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,01",
+      "range_to": "0,2",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "8 | МУК 4.1.2473-09 | Воздух рабочей зоны. Химические факторы | | | Азота диоксид | (1,0 ÷ 20) мг/м3",
+      "norm_doc": "МУК 4.1.2473-09",
+      "object": "Воздух рабочей зоны. Химические факторы",
+      "indicator": "Азота диоксид",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1,0",
+      "range_to": "20",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "9 | МУК 4.1.2469-09 | Воздух рабочей зоны. Химические факторы | | | Формальдегид | (0,25 ÷ 3,0) мг/м3",
+      "norm_doc": "МУК 4.1.2469-09",
+      "object": "Воздух рабочей зоны. Химические факторы",
+      "indicator": "Формальдегид",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,25",
+      "range_to": "3,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "10 | МУК 4.1.2468-09 | Воздух рабочей зоны. Химические факторы | | | Пыль растительного и животного происхождения, в т.ч. мучная, древесная и другая (с примесью SiO2). Силикатосодержащие пыли, силикаты. Железо. Диалюминий триоксид. Сажи черные. | (1 ÷ 250) мг/м3",
+      "norm_doc": "МУК 4.1.2468-09",
+      "object": "Воздух рабочей зоны. Химические факторы",
+      "indicator": "Пыль растительного и животного происхождения, в т.ч. мучная, древесная и другая (с примесью SiO2). Силикатосодержащие пыли, силикаты. Железо. Диалюминий триоксид. Сажи черные.",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "250",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "11 | МУ 5813-91 | Воздух рабочей зоны. Химические факторы | | | 1,1'-Метиленбис (4,4'-Дифенилметандиизоциандифенилметан) | (0,5 ÷ 5,0) мг/м3",
+      "norm_doc": "МУ 5813-91",
+      "object": "Воздух рабочей зоны. Химические факторы",
+      "indicator": "1,1'-Метиленбис (4,4'-Дифенилметандиизоциандифенилметан)",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,5",
+      "range_to": "5,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "12 | ГОСТ 12.1.014 - 84 | Воздух рабочей зоны. Химические факторы | | | N,N-Диметилформамид | 2,6-97,8 мг/м3",
+      "norm_doc": "ГОСТ 12.1.014 - 84",
+      "object": "Воздух рабочей зоны. Химические факторы",
+      "indicator": "N,N-Диметилформамид",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "2,6",
+      "range_to": "97,8",
+      "unit": "мг/м3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Page 3 is a signature/certification page (rotated 90 degrees, prошнуровано stamp), no table rows; read for completeness but contributes no rows. No ТР ТС section headings appear anywhere in this document, so tr_section is null on every row. Row 10 lists several substance names under a single shared range (1÷250 мг/м3) rather than one range per substance, so it was kept as one row with the combined indicator text rather than split, per the 'each with its own range' rule."
+}
