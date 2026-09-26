@@ -1,0 +1,20 @@
+{
+  "uuid": "d403d3f8-c8eb-4ab1-8a58-406f1d85e9df",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | Измерения параметров потока, расхода, уровня, объема веществ | Счетчики холодной, горячей, холодной и горячей (универсальные) воды | (0,02 – 5) м3/ч | ПГ ± (2 – 5) %",
+      "norm_doc": null,
+      "object": "Счетчики холодной, горячей, холодной и горячей (универсальные) воды",
+      "indicator": "Измерения параметров потока, расхода, уровня, объема веществ",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,02",
+      "range_to": "5",
+      "unit": "м3/ч",
+      "tr_section": null
+    }
+  ],
+  "issues": "This is a 'Поверка средств измерений' (verification of measuring instruments) scope document, not a standard ТР ТС technical-regulation accreditation table: it has no норм.документ, ОКПД2/ТН ВЭД, or ТР ТС section-heading columns/rows, so those fields are null throughout. The table also has a separate 'погрешность и/или неопределенность' column (ПГ ± (2-5) %), which the schema has no dedicated field for; it is preserved in raw_row_text only. Single-page document, single table row, no rotation or legibility issues."
+}
