@@ -1,0 +1,20 @@
+{
+  "uuid": "d35e31b0-2d6a-40bd-be50-52af2e0bed9c",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | Измерения механических величин | Весы крановые | (4 – 50000) кг | КТ средний ПГ ±(0,5 – 3) e | ",
+      "norm_doc": null,
+      "object": "Весы крановые",
+      "indicator": "Измерения механических величин",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "4",
+      "range_to": "50000",
+      "unit": "кг",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document is a 'Поверка средств измерений' scope table with columns № | Измерения | Тип (группа) средств измерений | диапазон измерений | погрешность и (или) неопределенность (класс, разряд) | Примечание — no норм.документ, ОКПД2, ТН ВЭД, or ТР ТС section-heading columns present. 'object' mapped to Тип (группа) средств измерений (Весы крановые), 'indicator' mapped to Измерения (Измерения механических величин). The погрешность/неопределенность value 'КТ средний ПГ ±(0,5 – 3) e' has no dedicated schema field and is preserved only in raw_row_text. Примечание column was empty."
+}
