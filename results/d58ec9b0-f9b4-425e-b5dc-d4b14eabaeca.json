@@ -1,0 +1,152 @@
+{
+  "uuid": "d58ec9b0-f9b4-425e-b5dc-d4b14eabaeca",
+  "pages_read": 3,
+  "pages_total": 3,
+  "rows": [
+    {
+      "raw_row_text": "1 | МУ 31-03/04; ФР.1.31.2004.00987 | Вода питьевая, Вода природная | - | - | Цинк | (0,0005 – 0,1) мг/дм3",
+      "norm_doc": "МУ 31-03/04; ФР.1.31.2004.00987",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Цинк",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,0005",
+      "range_to": "0,1",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | МУ 31-03/04; ФР.1.31.2004.00987 | Вода питьевая, Вода природная | - | - | Кадмий | (0,0002 – 0,005) мг/дм3",
+      "norm_doc": "МУ 31-03/04; ФР.1.31.2004.00987",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Кадмий",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,0002",
+      "range_to": "0,005",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | МУ 31-03/04; ФР.1.31.2004.00987 | Вода питьевая, Вода природная | - | - | Медь | (0,0006– 1,0) мг/дм3",
+      "norm_doc": "МУ 31-03/04; ФР.1.31.2004.00987",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Медь",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,0006",
+      "range_to": "1,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | МУ 31-03/04; ФР.1.31.2004.00987 | Вода питьевая, Вода природная | - | - | Свинец | (0,0002 – 0,05) мг/дм3",
+      "norm_doc": "МУ 31-03/04; ФР.1.31.2004.00987",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Свинец",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,0002",
+      "range_to": "0,05",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ Р 57164-2016 | Вода питьевая, Вода природная | - | - | Мутность | (0,58– 8,7) мг/дм3",
+      "norm_doc": "ГОСТ Р 57164-2016",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Мутность",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,58",
+      "range_to": "8,7",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ПНД Ф 14.1:2:4.3-95 | Вода питьевая, Вода природная | - | - | Нитрит-ион | (0,02– 3,0) мг/дм3",
+      "norm_doc": "ПНД Ф 14.1:2:4.3-95",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Нитрит-ион",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,02",
+      "range_to": "3,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | ПНД Ф 14.1:2:4.4-95 | Вода питьевая, Вода природная | - | - | Нитрат-ион | (0,1– 100) мг/дм3",
+      "norm_doc": "ПНД Ф 14.1:2:4.4-95",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Нитрат-ион",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "100",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "5 | ПНД Ф 14.1:2:4.276-2013 | Вода питьевая, Вода природная | - | - | Аммиак и ионы аммония | (0,1– 3,0) мг/дм3",
+      "norm_doc": "ПНД Ф 14.1:2:4.276-2013",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Аммиак и ионы аммония",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "3,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ Р 57164-2016 | Вода питьевая, Вода природная | - | - | Вкус (привкус) | (0–5) баллов",
+      "norm_doc": "ГОСТ Р 57164-2016",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Вкус (привкус)",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "5",
+      "unit": "баллов",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ Р 57164-2016 | Вода питьевая, Вода природная | - | - | Запах | (0–5) баллов",
+      "norm_doc": "ГОСТ Р 57164-2016",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Запах",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "5",
+      "unit": "баллов",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ Р 57164-2016 | Вода питьевая, Вода природная | - | - | Мутность | (0,58– 8,7) мг/дм3",
+      "norm_doc": "ГОСТ Р 57164-2016",
+      "object": "Вода питьевая, Вода природная",
+      "indicator": "Мутность",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,58",
+      "range_to": "8,7",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "7 | РД 52.24.438-2011 Раздел 2 | Вода природная | - | - | 2,4-Д | (0,002–0,06) мг/дм3",
+      "norm_doc": "РД 52.24.438-2011 Раздел 2",
+      "object": "Вода природная",
+      "indicator": "2,4-Д",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,002",
+      "range_to": "0,06",
+      "unit": "мг/дм3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document has no ТР ТС section headings; only full-width address rows (лабораторные адреса: Литер В1 и Тепловский водозабор Литер Е) appear as section breaks in the table, and per instructions these are NOT used as tr_section (left null on every row). ОКПД2 and ТН ВЭД ЕАЭС columns are '-' (null) for all rows in the source. Row 6 (ГОСТ Р 57164-2016) covers three indicators (Вкус, Запах, Мутность) sharing one norm-doc cell, split into three JSON rows per instructions. Мутность is printed with unit 'мг/дм3' in the source document (unusual for turbidity, normally NTU/ЕМФ) — transcribed as printed, not corrected. Page 3 is a signature/binding page with no table rows (still counted as read). Document is 3 pages total, all read."
+}
