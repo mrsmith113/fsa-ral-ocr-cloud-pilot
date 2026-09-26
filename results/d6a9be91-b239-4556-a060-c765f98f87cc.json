@@ -1,0 +1,32 @@
+{
+  "uuid": "d6a9be91-b239-4556-a060-c765f98f87cc",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ Р 52247 метод В | нефть нефть, подготовленная к транспортировке (или) использованию | 06.10.10.200 | 2709 00 900 9 | Массовая доля органических хлоридов во фракции, выкипающей до температуры 204 0С | (5,0 – 50,0) мкг/г (5,0 – 50,0) ppm (5,0 – 50,0) млн-1",
+      "norm_doc": "ГОСТ Р 52247 метод В",
+      "object": "нефть нефть, подготовленная к транспортировке (или) использованию",
+      "indicator": "Массовая доля органических хлоридов во фракции, выкипающей до температуры 204 0С",
+      "okpd2_code": "06.10.10.200",
+      "tnved_code": "2709 00 900 9",
+      "range_from": "5,0",
+      "range_to": "50,0",
+      "unit": "мкг/г, ppm, млн-1",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ГОСТ Р 52247 метод В | нефть нефть, подготовленная к транспортировке (или) использованию | 06.10.10.200 | 2709 00 900 9 | Массовая доля хлорорганических соединений в нефти (расчетный) | -",
+      "norm_doc": "ГОСТ Р 52247 метод В",
+      "object": "нефть нефть, подготовленная к транспортировке (или) использованию",
+      "indicator": "Массовая доля хлорорганических соединений в нефти (расчетный)",
+      "okpd2_code": "06.10.10.200",
+      "tnved_code": "2709 00 900 9",
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Single-page landscape document (1 numbered table row split into 2 JSON rows for its 2 indicators). First indicator's range (5,0-50,0) is repeated across three units (мкг/г, ppm, млн-1); units joined into one field since schema has a single unit slot. No ТР ТС section headings present in this document, so tr_section is null throughout."
+}
