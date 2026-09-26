@@ -1,0 +1,20 @@
+{
+  "uuid": "d5cc0d0e-3e89-4f34-807a-a05d078e0cf6",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ Р 56237-2014 | Питьевая вода централизованных систем водоснабжения | - | - | Отбор проб | -",
+      "norm_doc": "ГОСТ Р 56237-2014",
+      "object": "Питьевая вода централизованных систем водоснабжения",
+      "indicator": "Отбор проб",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": null
+}
