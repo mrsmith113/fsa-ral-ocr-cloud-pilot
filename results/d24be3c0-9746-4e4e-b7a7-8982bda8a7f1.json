@@ -1,0 +1,32 @@
+{
+  "uuid": "d24be3c0-9746-4e4e-b7a7-8982bda8a7f1",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | Теплофизические и температурные измерения | Термостаты | [(- 80)...300] °C | Нестабильность ±0,02 °C | -",
+      "norm_doc": null,
+      "object": "Термостаты",
+      "indicator": "Теплофизические и температурные измерения",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "-80",
+      "range_to": "300",
+      "unit": "°C",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | Радиотехнические и радиоэлектронные измерения | Осциллографы цифровые запоминающие | (0…100) МГц | ПГ (5…25)% | -",
+      "norm_doc": null,
+      "object": "Осциллографы цифровые запоминающие",
+      "indicator": "Радиотехнические и радиоэлектронные измерения",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "100",
+      "unit": "МГц",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document is a 'Дополнение №1 к области аккредитации' (поверка средств измерений), not a standard accreditation-scope table with норм.документ/ОКПД2/ТН ВЭД/showatel columns. Table columns are: №, Измерения, Тип (группа) средств измерений, диапазон измерений, погрешность и (или) неопределенность, Примечание. Mapped 'Тип (группа) средств измерений' to object and 'Измерения' to indicator; norm_doc/okpd2_code/tnved_code are not present in this document and are null for all rows. The погрешность/неопределенность values (e.g. 'Нестабильность ±0,02 °C', 'ПГ (5…25)%') have no dedicated schema field and are preserved only in raw_row_text. No ТР ТС section headings present, so tr_section is null throughout."
+}
