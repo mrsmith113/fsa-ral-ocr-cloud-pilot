@@ -1,0 +1,20 @@
+{
+  "uuid": "d59c9ef7-2c98-43fe-8e9f-9385457240db",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | Приказ Министерства труда и социальной защиты РФ от 24 января 2014 г. № 33н (п. 29) | Производственная (рабочая) среда, (работы с патогенными микроорганизмами | - | - | Контакт (отсутствие контакта) | Наличие / Отсутствие | Приказ Министерства труда и социальной защиты РФ от 24 января 2014 г. № 33н",
+      "norm_doc": "Приказ Министерства труда и социальной защиты РФ от 24 января 2014 г. № 33н (п. 29)",
+      "object": "Производственная (рабочая) среда, (работы с патогенными микроорганизмами",
+      "indicator": "Контакт (отсутствие контакта)",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "Наличие / Отсутствие",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Document is a 2-page 'Дополнительная область аккредитации' (accreditation scope addendum), not a full protocol. Table has only 1 substantive data row on page 1 (column 6 'Диапазон определения' holds a qualitative value 'Наличие/Отсутствие' rather than a numeric range, so it was placed in range_from per the non-numeric-range rule). No ТР ТС section headings present anywhere in the document, so tr_section is null. Page 2 contains only signatures/seals, no table rows."
+}
