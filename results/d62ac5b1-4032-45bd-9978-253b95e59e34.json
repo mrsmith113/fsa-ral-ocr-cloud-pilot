@@ -1,0 +1,20 @@
+{
+  "uuid": "d62ac5b1-4032-45bd-9978-253b95e59e34",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | РД 52.24.358-2006 | Вода природная (поверхностная, подземная) | - | - | Железо общее (растворенное, валовое) | (0,02 - 4,00) мг/дм3",
+      "norm_doc": "РД 52.24.358-2006",
+      "object": "Вода природная (поверхностная, подземная)",
+      "indicator": "Железо общее (растворенное, валовое)",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,02",
+      "range_to": "4,00",
+      "unit": "мг/дм3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Page 2 is the reverse side of the attachment sheet (signatures/seal only), no table rows; correctly counted in pages_read/pages_total. No ТР ТС section headings present in this document."
+}
