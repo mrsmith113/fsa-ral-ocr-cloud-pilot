@@ -1,0 +1,20 @@
+{
+  "uuid": "d51aa2e7-1d3e-48cc-8845-d3f453a94b9a",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ Р 50.05.09-2018 Система оценки соответствия в области использования атомной энергии. Оценка соответствия в форме контроля. Унифицированные методики. Капиллярный контроль | Основные материалы (полуфабрикаты) включая трубы, поковки, листовой и сортовой прокат, литьё, крепёжные детали, корпусные детали. Сварные соединения и наплавки. | - | - | Наличие несплошностей, выходящих на поверхность | Обнаружено/не обнаружено",
+      "norm_doc": "ГОСТ Р 50.05.09-2018 Система оценки соответствия в области использования атомной энергии. Оценка соответствия в форме контроля. Унифицированные методики. Капиллярный контроль",
+      "object": "Основные материалы (полуфабрикаты) включая трубы, поковки, листовой и сортовой прокат, литьё, крепёжные детали, корпусные детали. Сварные соединения и наплавки.",
+      "indicator": "Наличие несплошностей, выходящих на поверхность",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "Обнаружено/не обнаружено",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Document header states 'На 2 листах, лист 1' (original paper document has 2 sheets) but the supplied PDF contains only 1 page — sheet 2 is not present in this file. Page 1 was rotated 90° in the source PDF and was re-rendered upright (rotation=90) for transcription. Only one table row is present on this page; no ТР ТС section headings appear anywhere on the page, so tr_section is null (the address/location line above the row is a lab-address heading, not a ТР ТС section, per rules)."
+}
