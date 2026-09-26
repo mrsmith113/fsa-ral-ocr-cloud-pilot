@@ -1,0 +1,80 @@
+{
+  "uuid": "d2fa57dd-d33a-46cc-89a3-9d965bc41eca",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 18165-2014 метод Б п. 6 | Питьевая вода; Природная вода | - | - | Алюминий | (0,04 – 2,0) мг/дм3",
+      "norm_doc": "ГОСТ 18165-2014 метод Б п. 6",
+      "object": "Питьевая вода; Природная вода",
+      "indicator": "Алюминий",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,04",
+      "range_to": "2,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ 31954-2012 метод А п. 4 | Питьевая вода; Вода источников питьевого водоснабжения; Природная (поверхностная и подземная) | - | - | Жесткость | (0,1-20) °Ж",
+      "norm_doc": "ГОСТ 31954-2012 метод А п. 4",
+      "object": "Питьевая вода; Вода источников питьевого водоснабжения; Природная (поверхностная и подземная)",
+      "indicator": "Жесткость",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "20",
+      "unit": "°Ж",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ГОСТ 31957-2012 метод А.2 п 5.4 (5.4.2 способ 1) | Питьевая вода; Вода источников питьевого водоснабжения; Природная (поверхностная и подземная) вода; Сточная вода | - | - | Общая щелочность | (0,1-100) ммоль/дм3",
+      "norm_doc": "ГОСТ 31957-2012 метод А.2 п 5.4 (5.4.2 способ 1)",
+      "object": "Питьевая вода; Вода источников питьевого водоснабжения; Природная (поверхностная и подземная) вода; Сточная вода",
+      "indicator": "Общая щелочность",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "100",
+      "unit": "ммоль/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | ГОСТ 18190-72 п. 2;3 | Питьевая вода | - | - | Хлор остаточный активный | (0,1-5,0) мг/дм3",
+      "norm_doc": "ГОСТ 18190-72 п. 2;3",
+      "object": "Питьевая вода",
+      "indicator": "Хлор остаточный активный",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "5,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "5 | ПНД Ф 14.1:2:4.154-99 | Питьевая вода; Природная (поверхностная и подземная) вода; Сточная вода | - | - | Перманганатная окисляемость | (0,25-100) мг/дм3",
+      "norm_doc": "ПНД Ф 14.1:2:4.154-99",
+      "object": "Питьевая вода; Природная (поверхностная и подземная) вода; Сточная вода",
+      "indicator": "Перманганатная окисляемость",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,25",
+      "range_to": "100",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ 31950-2012 п.3 метод 1 | Питьевая вода; Природная (поверхностная и подземная) вода | - | - | Общая ртуть | (0,1-5,0) мкг/дм3",
+      "norm_doc": "ГОСТ 31950-2012 п.3 метод 1",
+      "object": "Питьевая вода; Природная (поверхностная и подземная) вода",
+      "indicator": "Общая ртуть",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "5,0",
+      "unit": "мкг/дм3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Single-page document (portrait scan of landscape table content, pymupdf reports 0 rotation and no re-render was needed - text was upright and legible at 150dpi). Table has a full-width address heading ('187553, РОССИЯ, ... канализационные очистные сооружения') above the rows; per instructions this is NOT treated as a tr_section heading (no ТР ТС/раздел headings present in this document), so tr_section is null on all rows. OKPD2 and TN VED columns are '-' (null) for all rows in the source. No unit column exists separately; unit was parsed out of the Диапазон определения (range) column."
+}
