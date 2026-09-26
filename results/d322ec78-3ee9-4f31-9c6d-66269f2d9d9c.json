@@ -1,0 +1,116 @@
+{
+  "uuid": "d322ec78-3ee9-4f31-9c6d-66269f2d9d9c",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | Манометры показывающие, в том числе с сигнальным устройством | (0 – 6) МПа | КТ (1 – 4) | -",
+      "norm_doc": null,
+      "object": "Манометры показывающие, в том числе с сигнальным устройством",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "6",
+      "unit": "МПа",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | Напоромеры, тягомеры | (0 – 40) кПа | КТ (1,5 – 4) | -",
+      "norm_doc": null,
+      "object": "Напоромеры, тягомеры",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "40",
+      "unit": "кПа",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | Термометры стеклянные жидкостные рабочие | (0 – 300) °C | ПГ ±(1 – 5) °C | -",
+      "norm_doc": null,
+      "object": "Термометры стеклянные жидкостные рабочие",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "300",
+      "unit": "°C",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | Термометры манометрические, в том числе с сигнальным устройством | (0 – 300) °C | КТ (1,5 – 4) | -",
+      "norm_doc": null,
+      "object": "Термометры манометрические, в том числе с сигнальным устройством",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "300",
+      "unit": "°C",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "5 | Термометры биметаллические | (0 – 300) °C | КТ (1,5 – 4) | -",
+      "norm_doc": null,
+      "object": "Термометры биметаллические",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "300",
+      "unit": "°C",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | Термометры сопротивления из платины, меди и никеля | [(-200) – 850] °C | КД А, В, С | -",
+      "norm_doc": null,
+      "object": "Термометры сопротивления из платины, меди и никеля",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "-200",
+      "range_to": "850",
+      "unit": "°C",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "7 | Вольтметры переменного тока | (0 – 600) В 50 Гц | КТ (1,5 – 5) | -",
+      "norm_doc": null,
+      "object": "Вольтметры переменного тока",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "600",
+      "unit": "В, 50 Гц",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "8 | Амперметры переменного тока | (0 – 5) А 50 Гц | КТ (1,5 – 5) | -",
+      "norm_doc": null,
+      "object": "Амперметры переменного тока",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "5",
+      "unit": "А, 50 Гц",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "9 | Ваттметры и варметры переменного тока | (0 – 3000) Вт | КТ (1,5 – 5) | -",
+      "norm_doc": null,
+      "object": "Ваттметры и варметры переменного тока",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "3000",
+      "unit": "Вт",
+      "tr_section": null
+    }
+  ],
+  "issues": "This document's accreditation scope is for verification (поверка) of measuring instruments (Поверка средств измерений), not product/testing OKPD2/TNVED indicators. Table columns are: № п/п | Измерения, тип (группа) средств измерений | Диапазон измерений | Погрешность и (или) неопределенность (класс, разряд) | Примечание. There are no ОКПД2, ТН ВЭД, norm_doc, or ТР ТС section-heading fields in this document, so those are null on every row. The bold category headings ('ИЗМЕРЕНИЯ ДАВЛЕНИЯ, ВАКУУМНЫЕ ИЗМЕРЕНИЯ', 'ТЕПЛОФИЗИЧЕСКИЕ И ТЕМПЕРАТУРНЫЕ ИЗМЕРЕНИЯ', 'ИЗМЕРЕНИЯ ЭЛЕКТРИЧЕСКИХ И МАГНИТНЫХ ВЕЛИЧИН') are measurement-type category headers, not ТР ТС sections, so tr_section is left null per instructions. The 'Погрешность и (или) неопределенность (класс, разряд)' column values (e.g. 'КТ (1-4)', 'ПГ ±(1-5) °C', 'КД А, В, С') have no dedicated schema field and are preserved only in raw_row_text; indicator was left null rather than force-fitting accuracy-class data into it. Document is a single page ('на 1 листе, лист 1'), fully legible, no rotation needed, all 9 rows transcribed."
+}
