@@ -1,0 +1,7 @@
+{
+  "uuid": "d8057aed-403f-4e29-be97-e1fc2f54d9cd",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [],
+  "issues": "Document has no standard 'Область аккредитации' indicator/range table with columns (№, норм.документ, объект, ОКПД2, ТН ВЭД, показатель, диапазон, единица). It is an accreditation scope for measurement uniformity assurance (RA.RU.311212), with a single descriptive line under 'Аттестация методик (методов) измерений:' reading 'Измерения механических величин - путем теоретических исследований.' No numbered rows, codes, ranges, or ТР ТС section headings are present anywhere in the 2-page document. Both pages carry a PDF /Rotate=90 flag but render upright correctly via pymupdf get_pixmap (page content is already portrait/upright), so no re-rendering was needed."
+}
