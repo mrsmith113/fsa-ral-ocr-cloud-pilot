@@ -1,0 +1,32 @@
+{
+  "uuid": "dbc4a388-6d30-4b29-aa40-1bda4c3fdabd",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1. | ПНД Ф 14.1:2:4.182-02, метод Б | Природные, питьевые, сточные воды | - | - | Массовая концентрация фенола летучего | (0,0005-25,0) мг/дм3",
+      "norm_doc": "ПНД Ф 14.1:2:4.182-02, метод Б",
+      "object": "Природные, питьевые, сточные воды",
+      "indicator": "Массовая концентрация фенола летучего",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,0005",
+      "range_to": "25,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2. | РД 52.24.496-2018, п.9.2.1 | Природные, очищенные сточные воды | - | - | Прозрачность | (1-30) см",
+      "norm_doc": "РД 52.24.496-2018, п.9.2.1",
+      "object": "Природные, очищенные сточные воды",
+      "indicator": "Прозрачность",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "30",
+      "unit": "см",
+      "tr_section": null
+    }
+  ],
+  "issues": "Both pages were rotated 90° in the source PDF; re-rendered upright at 170dpi to transcribe. Page 2 contains only signature-block labels (no table rows). No ТР ТС section headings present in this document, so tr_section is null on all rows."
+}
