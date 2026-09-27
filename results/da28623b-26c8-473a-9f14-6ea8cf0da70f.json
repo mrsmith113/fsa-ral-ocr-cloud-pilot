@@ -1,0 +1,20 @@
+{
+  "uuid": "da28623b-26c8-473a-9f14-6ea8cf0da70f",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | Руководство по эксплуатации ГАНК - 4 КПГУ 413322 002 РЭ | Воздух рабочей зоны; Атмосферный воздух населенных мест (в том числе санитарно-защитной зоны предприятий), помещений жилых и общественных зданий | - | - | Изопропиловый спирт / Пропан -2- ол | (0.3-200) мг/м3",
+      "norm_doc": "Руководство по эксплуатации ГАНК - 4 КПГУ 413322 002 РЭ",
+      "object": "Воздух рабочей зоны; Атмосферный воздух населенных мест (в том числе санитарно-защитной зоны предприятий), помещений жилых и общественных зданий",
+      "indicator": "Изопропиловый спирт / Пропан -2- ол",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0.3",
+      "range_to": "200",
+      "unit": "мг/м3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Single-page document (Дополнительная область аккредитации) with one numbered table row containing one indicator (given as two synonymous names 'Изопропиловый спирт / Пропан -2- ол') and a single shared range; treated as one JSON row. No ТР ТС section headings present in the document, so tr_section is null throughout."
+}
