@@ -1,0 +1,20 @@
+{
+  "uuid": "d75ef40f-717f-4743-94ce-efcac3fe20c4",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | ПНД Ф 14.1:2.159-2000 | Вода природная поверхностная; Вода сточная очищенная; Вода сточная | - | - | Сульфат-ион | (10,0-100,0) мг/дм3 | - Нормативы, утв. Приказом Рос рыболовства № 20 от 18.01.2010; -Постановление Правительства РФ №644 (прил.3) от 29.07.2013; - СанПиН 2.1.5.980-00; - ГН 2.1.5.1315-03",
+      "norm_doc": "ПНД Ф 14.1:2.159-2000; Нормативы, утв. Приказом Рос рыболовства № 20 от 18.01.2010; Постановление Правительства РФ №644 (прил.3) от 29.07.2013; СанПиН 2.1.5.980-00; ГН 2.1.5.1315-03",
+      "object": "Вода природная поверхностная; Вода сточная очищенная; Вода сточная",
+      "indicator": "Сульфат-ион",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "10,0",
+      "range_to": "100,0",
+      "unit": "мг/дм3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Only 2 pages total. Page 1 table header and rows are printed sideways (page content rotated relative to page frame, not a scanner-rotated page) but fully legible. The table contains a single numbered row (No.1) covering three объекта (Вода природная поверхностная, Вода сточная очищенная, Вода сточная) sharing one indicator (Сульфат-ион) and one range; all three objects were combined into the single 'object' field since only one indicator/range applies. A full-width heading above row 1 reads 'Ямало-Ненецкий автономный округ, г. Ноябрьск, Канализационные очистные сооружения' — this is a location/address heading, not a ТР ТС section, so tr_section was left null per rules. Page 2 contains only expert-group signatures and a seal, no table rows."
+}
