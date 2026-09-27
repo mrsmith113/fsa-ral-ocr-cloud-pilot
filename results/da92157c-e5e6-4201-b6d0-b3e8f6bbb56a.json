@@ -1,0 +1,116 @@
+{
+  "uuid": "da92157c-e5e6-4201-b6d0-b3e8f6bbb56a",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "Руководство по эксплуатации анализатора плотности жидкостей серии DMA (п.9) | Конденсат газовый стабильный | 19.20.32.115 | 2711 11 | Плотность при 15 °C | (750,0-850,0) кг/м3",
+      "norm_doc": "Руководство по эксплуатации анализатора плотности жидкостей серии DMA (п.9)",
+      "object": "Конденсат газовый стабильный",
+      "indicator": "Плотность при 15 °C",
+      "okpd2_code": "19.20.32.115",
+      "tnved_code": "2711 11",
+      "range_from": "750,0",
+      "range_to": "850,0",
+      "unit": "кг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ 33703 | Конденсат газовый стабильный | 19.20.32.115 | 2711 11 | Массовая концентрация хлористых солей | (0,3-100) мг/дм3",
+      "norm_doc": "ГОСТ 33703",
+      "object": "Конденсат газовый стабильный",
+      "indicator": "Массовая концентрация хлористых солей",
+      "okpd2_code": "19.20.32.115",
+      "tnved_code": "2711 11",
+      "range_from": "0,3",
+      "range_to": "100",
+      "unit": "мг/дм3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ Р 57037 | Конденсат газовый стабильный | 19.20.32.115 | 2711 11 | Плотность при 15 °C | (750,0-850,0) кг/м3",
+      "norm_doc": "ГОСТ Р 57037",
+      "object": "Конденсат газовый стабильный",
+      "indicator": "Плотность при 15 °C",
+      "okpd2_code": "19.20.32.115",
+      "tnved_code": "2711 11",
+      "range_from": "750,0",
+      "range_to": "850,0",
+      "unit": "кг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ 20287 (метод Б) | Масла моторные | 19.20.29.110 | 2710 19 | Температура застывания | от минус 65 °C до минус 60 °C",
+      "norm_doc": "ГОСТ 20287 (метод Б)",
+      "object": "Масла моторные",
+      "indicator": "Температура застывания",
+      "okpd2_code": "19.20.29.110",
+      "tnved_code": "2710 19",
+      "range_from": "минус 65 °C",
+      "range_to": "минус 60 °C",
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ 20287 (метод Б) | Масла авиационные | 19.20.29.111 | 2710 19 | Температура застывания | от минус 65 °C до минус 60 °C",
+      "norm_doc": "ГОСТ 20287 (метод Б)",
+      "object": "Масла авиационные",
+      "indicator": "Температура застывания",
+      "okpd2_code": "19.20.29.111",
+      "tnved_code": "2710 19",
+      "range_from": "минус 65 °C",
+      "range_to": "минус 60 °C",
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ 20287 (метод Б) | Масла гидравлические | 19.20.29.120 | 2710 19 | Температура застывания | от минус 65 °C до минус 60 °C",
+      "norm_doc": "ГОСТ 20287 (метод Б)",
+      "object": "Масла гидравлические",
+      "indicator": "Температура застывания",
+      "okpd2_code": "19.20.29.120",
+      "tnved_code": "2710 19",
+      "range_from": "минус 65 °C",
+      "range_to": "минус 60 °C",
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ 20287 (метод Б) | Масла трансформаторные | 19.20.29.140 | 2710 19 | Температура застывания | от минус 65 °C до минус 60 °C",
+      "norm_doc": "ГОСТ 20287 (метод Б)",
+      "object": "Масла трансформаторные",
+      "indicator": "Температура застывания",
+      "okpd2_code": "19.20.29.140",
+      "tnved_code": "2710 19",
+      "range_from": "минус 65 °C",
+      "range_to": "минус 60 °C",
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ 20287 (метод Б) | Масла турбинные | [неразборчиво] | 2710 19 | Температура застывания | от минус 65 °C до минус 60 °C",
+      "norm_doc": "ГОСТ 20287 (метод Б)",
+      "object": "Масла турбинные",
+      "indicator": "Температура застывания",
+      "okpd2_code": null,
+      "tnved_code": "2710 19",
+      "range_from": "минус 65 °C",
+      "range_to": "минус 60 °C",
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "ГОСТ 20287 (метод Б) | Материалы смазочные | [неразборчиво] | 3403 99 | Температура застывания | от минус 65 °C до минус 60 °C",
+      "norm_doc": "ГОСТ 20287 (метод Б)",
+      "object": "Материалы смазочные",
+      "indicator": "Температура застывания",
+      "okpd2_code": null,
+      "tnved_code": "3403 99",
+      "range_from": "минус 65 °C",
+      "range_to": "минус 60 °C",
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Page 2 is a signature/seal page with no table rows (still counted as read). On page 1, the OKPD2 code for 'Масла турбинные' (row 1, block 2) is partially obscured by the round wet-ink stamp — only '19.20.29.1' is legible, the final digit is hidden under the seal, so okpd2_code is null for that row [неразборчиво]. Similarly the OKPD2 code for 'Материалы смазочные' (same numbered row) is partially obscured by the same stamp — '20.59.41.' is legible but the digits after it are covered/ambiguous under the seal, so okpd2_code is null for that row [неразборчиво]. No pages were rotated; both pages rendered upright at native orientation."
+}
