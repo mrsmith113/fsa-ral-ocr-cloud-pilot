@@ -1,0 +1,68 @@
+{
+  "uuid": "d88b1b0a-add9-4ad7-9ef3-e1b033629280",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ПКБ ЦТ.25.0164 | Валы электрических машин | 27.11.21.000 | - | Наличие дефекта | Обнаружен/ не обнаружен",
+      "norm_doc": "ПКБ ЦТ.25.0164",
+      "object": "Валы электрических машин",
+      "indicator": "Наличие дефекта",
+      "okpd2_code": "27.11.21.000",
+      "tnved_code": null,
+      "range_from": "Обнаружен/ не обнаружен",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ПКБ ЦТ.25.0164 | Болты главных и добавочных полюсов | 27.11.21.000 | - | Наличие дефекта | Обнаружен/ не обнаружен",
+      "norm_doc": "ПКБ ЦТ.25.0164",
+      "object": "Болты главных и добавочных полюсов",
+      "indicator": "Наличие дефекта",
+      "okpd2_code": "27.11.21.000",
+      "tnved_code": null,
+      "range_from": "Обнаружен/ не обнаружен",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ПКБ ЦТ.25.0164 | Болты крепления МОП | 27.11.21.000 | - | Наличие дефекта | Обнаружен/ не обнаружен",
+      "norm_doc": "ПКБ ЦТ.25.0164",
+      "object": "Болты крепления МОП",
+      "indicator": "Наличие дефекта",
+      "okpd2_code": "27.11.21.000",
+      "tnved_code": null,
+      "range_from": "Обнаружен/ не обнаружен",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ЛВ.25000.00421 | Валы электрических машин | 27.11.21.000 | - | Наличие дефекта | Обнаружен/ не обнаружен",
+      "norm_doc": "ЛВ.25000.00421",
+      "object": "Валы электрических машин",
+      "indicator": "Наличие дефекта",
+      "okpd2_code": "27.11.21.000",
+      "tnved_code": null,
+      "range_from": "Обнаружен/ не обнаружен",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ЛВ.25000.00421 | Болты главных и добавочных полюсов | 27.11.21.000 | - | Наличие дефекта | Обнаружен/ не обнаружен",
+      "norm_doc": "ЛВ.25000.00421",
+      "object": "Болты главных и добавочных полюсов",
+      "indicator": "Наличие дефекта",
+      "okpd2_code": "27.11.21.000",
+      "tnved_code": null,
+      "range_from": "Обнаружен/ не обнаружен",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Single-page landscape document (rotation 0, no re-render needed). Table rows 1 and 2 each list multiple objects sharing one indicator/range cell (merged vertically); split into one JSON row per object per brief's per-indicator/object convention, repeating norm_doc/okpd2/indicator/range. No ТР ТС section headings present in the document; only lab-address full-width rows appear, which per instructions are not used as tr_section (left null throughout). TN VED cells were '-' for both rows, mapped to null."
+}
