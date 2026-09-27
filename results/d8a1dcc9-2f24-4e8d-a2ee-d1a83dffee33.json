@@ -1,0 +1,20 @@
+{
+  "uuid": "d8a1dcc9-2f24-4e8d-a2ee-d1a83dffee33",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 33503 (п. 8.2) | смесь угольной и инертной пыли (осланцованная пыль) | - | - | массовая доля аналитической влаги | от 0,02 до 1 %",
+      "norm_doc": "ГОСТ 33503 (п. 8.2)",
+      "object": "смесь угольной и инертной пыли (осланцованная пыль)",
+      "indicator": "массовая доля аналитической влаги",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,02",
+      "range_to": "1",
+      "unit": "%",
+      "tr_section": null
+    }
+  ],
+  "issues": "Page 1 is printed in landscape orientation on a portrait page (content reads sideways) but was fully legible at render resolution, so no further rotation/crop was needed. Page 2 contains only signatures, no table rows. Document lists no ТР ТС section headings, so tr_section is null throughout."
+}
