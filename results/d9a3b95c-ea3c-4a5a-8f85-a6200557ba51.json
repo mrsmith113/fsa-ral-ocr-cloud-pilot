@@ -1,0 +1,20 @@
+{
+  "uuid": "d9a3b95c-ea3c-4a5a-8f85-a6200557ba51",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1.1 | РД 52.04.822-2015 | Атмосферный воздух | - | - | Серы диоксид | (0,0025-8,0) мг/м3",
+      "norm_doc": "РД 52.04.822-2015",
+      "object": "Атмосферный воздух",
+      "indicator": "Серы диоксид",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,0025",
+      "range_to": "8,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document has only 1 table row (item 1.1) on page 1; page 2 contains only the expert group signatures/seal with no table content. No ТР ТС section headings present in the document."
+}
