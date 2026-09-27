@@ -1,0 +1,20 @@
+{
+  "uuid": "da610c1c-f0c6-4dea-8f6a-317b89717128",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | Газоанализатор ЭЛАН-СО-50 Руководство по эксплуатации ЭКИТ 5.940.000 РЭ | Атмосферный воздух населенных мест и санитарно-защитных зон | - | - | Оксид углерода | (0 – 50) мг/м3",
+      "norm_doc": "Газоанализатор ЭЛАН-СО-50 Руководство по эксплуатации ЭКИТ 5.940.000 РЭ",
+      "object": "Атмосферный воздух населенных мест и санитарно-защитных зон",
+      "indicator": "Оксид углерода",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "50",
+      "unit": "мг/м3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Both pages are physically rotated 90° on the scan (landscape content on a portrait page) but were legible without further re-rendering. Page 1 is the single-row scope table (matches 'на 1 листах, лист 1'); page 2 is a signature/seal page (эксперт по аккредитации, технический эксперт) with no table rows. No ТР ТС section headings appear anywhere in the document, so tr_section is null for all rows."
+}
