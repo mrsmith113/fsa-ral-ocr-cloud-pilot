@@ -1,0 +1,20 @@
+{
+  "uuid": "d76f656b-748d-462b-936b-45d1ad1c4719",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 31955.1-2013 | Вода питьевая | - | - | Escherichia coli | (0-10^3) КОЕ/100 см3",
+      "norm_doc": "ГОСТ 31955.1-2013",
+      "object": "Вода питьевая",
+      "indicator": "Escherichia coli",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "10^3",
+      "unit": "КОЕ/100 см3",
+      "tr_section": null
+    }
+  ],
+  "issues": null
+}
