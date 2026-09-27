@@ -1,0 +1,104 @@
+{
+  "uuid": "db6d1cab-20d2-4aa2-bbdb-10416b65b9f8",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ Р 52247 (метод В) | Нефть | - | - | Массовая доля органических хлоридов в пересчете на нефть | (1-5) мкг/г (млн-1), (ppm)",
+      "norm_doc": "ГОСТ Р 52247 (метод В)",
+      "object": "Нефть",
+      "indicator": "Массовая доля органических хлоридов в пересчете на нефть",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "5",
+      "unit": "мкг/г (млн-1), (ppm)",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ГОСТ Р 52247 (метод В) | Нефть | - | - | Массовая доля органических хлоридов во фракции выкипающей до 204 °C | (5-20) мкг/г (млн-1), (ppm)",
+      "norm_doc": "ГОСТ Р 52247 (метод В)",
+      "object": "Нефть",
+      "indicator": "Массовая доля органических хлоридов во фракции выкипающей до 204 °C",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "5",
+      "range_to": "20",
+      "unit": "мкг/г (млн-1), (ppm)",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | Анализатор серы и хлора рентгенофлуоресцентный волнодесперсионный Спектроскан CLSW Руководство по эксплуатации РА15.000.000 РЭ | Нефть, Нефтепродукты, Химические продукты (ацетон, толуол, изооктан, спирт этиловый ректификационный) | - | - | Массовая доля органических хлоридов во фракции выкипающей до 204 °C | (1-20) мкг/г (млн-1), (ppm)",
+      "norm_doc": "Анализатор серы и хлора рентгенофлуоресцентный волнодесперсионный Спектроскан CLSW Руководство по эксплуатации РА15.000.000 РЭ",
+      "object": "Нефть, Нефтепродукты, Химические продукты (ацетон, толуол, изооктан, спирт этиловый ректификационный)",
+      "indicator": "Массовая доля органических хлоридов во фракции выкипающей до 204 °C",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "20",
+      "unit": "мкг/г (млн-1), (ppm)",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ГОСТ 32139 | Нефть, Нефтепродукты | - | - | Массовая доля серы | (0,02-4,5)%",
+      "norm_doc": "ГОСТ 32139",
+      "object": "Нефть, Нефтепродукты",
+      "indicator": "Массовая доля серы",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,02",
+      "range_to": "4,5",
+      "unit": "%",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | ГОСТ 32918 | Нефть | - | - | Массовая доля сероводорода | (2-100) млн-1(ppm)",
+      "norm_doc": "ГОСТ 32918",
+      "object": "Нефть",
+      "indicator": "Массовая доля сероводорода",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "2",
+      "range_to": "100",
+      "unit": "млн-1(ppm)",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | ГОСТ 32918 | Нефть | - | - | Массовая доля метилмеркаптанов | (2-100) млн-1(ppm)",
+      "norm_doc": "ГОСТ 32918",
+      "object": "Нефть",
+      "indicator": "Массовая доля метилмеркаптанов",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "2",
+      "range_to": "100",
+      "unit": "млн-1(ppm)",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | ГОСТ 32918 | Нефть | - | - | Массовая доля этилмеркаптанов | (2-100) млн-1(ppm)",
+      "norm_doc": "ГОСТ 32918",
+      "object": "Нефть",
+      "indicator": "Массовая доля этилмеркаптанов",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "2",
+      "range_to": "100",
+      "unit": "млн-1(ppm)",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | ГОСТ 32918 | Нефть | - | - | Массовая доля суммы метил- и этилмеркаптанов | (2-100) млн-1(ppm)",
+      "norm_doc": "ГОСТ 32918",
+      "object": "Нефть",
+      "indicator": "Массовая доля суммы метил- и этилмеркаптанов",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "2",
+      "range_to": "100",
+      "unit": "млн-1(ppm)",
+      "tr_section": null
+    }
+  ],
+  "issues": "Page 1 table is rendered landscape on a portrait page (rotated 90°); re-rendered upright for transcription. Page 2 contains only signatures/stamp, no table rows. No ТР ТС section headings present in the document, so tr_section is null for all rows."
+}
