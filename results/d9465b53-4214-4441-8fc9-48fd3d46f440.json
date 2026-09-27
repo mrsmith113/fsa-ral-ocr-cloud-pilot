@@ -1,0 +1,44 @@
+{
+  "uuid": "d9465b53-4214-4441-8fc9-48fd3d46f440",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 12.3.018-79 (Руководство по эксплуатации смарт-зонд Testo 405i) | Системы вентиляционные | 29.32.30.260 | - | Температура | (-20 + 60) °C",
+      "norm_doc": "ГОСТ 12.3.018-79 (Руководство по эксплуатации смарт-зонд Testo 405i)",
+      "object": "Системы вентиляционные",
+      "indicator": "Температура",
+      "okpd2_code": "29.32.30.260",
+      "tnved_code": null,
+      "range_from": "-20",
+      "range_to": "60",
+      "unit": "°C",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ГОСТ 12.3.018-79 (Руководство по эксплуатации смарт-зонд Testo 405i) | Системы вентиляционные | 29.32.30.260 | - | Скорость потока | (0,04 – 15) м/с",
+      "norm_doc": "ГОСТ 12.3.018-79 (Руководство по эксплуатации смарт-зонд Testo 405i)",
+      "object": "Системы вентиляционные",
+      "indicator": "Скорость потока",
+      "okpd2_code": "29.32.30.260",
+      "tnved_code": null,
+      "range_from": "0,04",
+      "range_to": "15",
+      "unit": "м/с",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | ГОСТ 12.3.018-79 (Руководство по эксплуатации смарт-зонд Testo 405i) | Системы вентиляционные | 29.32.30.260 | - | Объемный расход | (0,003 – 5) м³/с",
+      "norm_doc": "ГОСТ 12.3.018-79 (Руководство по эксплуатации смарт-зонд Testo 405i)",
+      "object": "Системы вентиляционные",
+      "indicator": "Объемный расход",
+      "okpd2_code": "29.32.30.260",
+      "tnved_code": null,
+      "range_from": "0,003",
+      "range_to": "5",
+      "unit": "м³/с",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document has only 1 table row (row №1) spanning 3 indicators (Температура, Скорость потока, Объемный расход), each emitted as a separate JSON row per the schema. Page 2 is a signature/attestation page with no table rows. No ТР ТС section headings present anywhere in the document, so tr_section is null on all rows."
+}
