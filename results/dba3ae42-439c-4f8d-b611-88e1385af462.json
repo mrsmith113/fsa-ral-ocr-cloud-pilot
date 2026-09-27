@@ -1,0 +1,104 @@
+{
+  "uuid": "dba3ae42-439c-4f8d-b611-88e1385af462",
+  "pages_read": 4,
+  "pages_total": 4,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 25382-82 п.2.1 | Цельная кровь | - | - | Количество лейкоцитов | -",
+      "norm_doc": "ГОСТ 25382-82 п.2.1",
+      "object": "Цельная кровь",
+      "indicator": "Количество лейкоцитов",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ 25382-82 п.2.3 | Сыворотка крови | - | - | Антитела к возбудителю лейкоза крупного рогатого скота | положительно/отрицательно",
+      "norm_doc": "ГОСТ 25382-82 п.2.3",
+      "object": "Сыворотка крови",
+      "indicator": "Антитела к возбудителю лейкоза крупного рогатого скота",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "положительно/отрицательно",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | Методические указания по диагностике лейкоза крупного рогатого скота №13-7-2/2130 от 23.08.2000 п.2.1 | Сыворотка крови | - | - | Антитела к возбудителю лейкоза крупного рогатого скота | положительно/отрицательно",
+      "norm_doc": "Методические указания по диагностике лейкоза крупного рогатого скота №13-7-2/2130 от 23.08.2000 п.2.1",
+      "object": "Сыворотка крови",
+      "indicator": "Антитела к возбудителю лейкоза крупного рогатого скота",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "положительно/отрицательно",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | Методические указания по диагностике лейкоза крупного рогатого скота №13-7-2/2130 от 23.08.2000 п.5 | Цельная кровь | - | - | Количество лейкоцитов | -",
+      "norm_doc": "Методические указания по диагностике лейкоза крупного рогатого скота №13-7-2/2130 от 23.08.2000 п.5",
+      "object": "Цельная кровь",
+      "indicator": "Количество лейкоцитов",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | Методические указания по диагностике лейкоза крупного рогатого скота №13-7-2/2130 от 23.08.2000 п.5 | Мазок крови | - | - | Качественная оценка лимфоцитов | -",
+      "norm_doc": "Методические указания по диагностике лейкоза крупного рогатого скота №13-7-2/2130 от 23.08.2000 п.5",
+      "object": "Мазок крови",
+      "indicator": "Качественная оценка лимфоцитов",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "5 | ГОСТ 34105-2017 п.7.2, п.7.4, п.7.5, п.7.6 | Сыворотка крови | - | - | Антитела к возбудителю бруцеллеза | положительно/сомнительно/отрицательно",
+      "norm_doc": "ГОСТ 34105-2017 п.7.2, п.7.4, п.7.5, п.7.6",
+      "object": "Сыворотка крови",
+      "indicator": "Антитела к возбудителю бруцеллеза",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "положительно/сомнительно/отрицательно",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | Наставления по диагностике бруцеллеза животных №13-5-02/0850 от 29.09.2003. п.4.2, 4.3, 4.4, 4.5 | Сыворотка крови | - | - | Антитела к возбудителю бруцеллеза | положительно/сомнительно/отрицательно",
+      "norm_doc": "Наставления по диагностике бруцеллеза животных №13-5-02/0850 от 29.09.2003. п.4.2, 4.3, 4.4, 4.5",
+      "object": "Сыворотка крови",
+      "indicator": "Антитела к возбудителю бруцеллеза",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "положительно/сомнительно/отрицательно",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "7 | Наставление по диагностике сапа. Утв. ДВ 26.02.96 г. №13-7-2/537 п.3.1 | Сыворотка крови | - | - | Антитела к возбудителю сапа | положительно/отрицательно",
+      "norm_doc": "Наставление по диагностике сапа. Утв. ДВ 26.02.96 г. №13-7-2/537 п.3.1",
+      "object": "Сыворотка крови",
+      "indicator": "Антитела к возбудителю сапа",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "положительно/отрицательно",
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Pages 1 and 3 (table pages) are landscape tables printed rotated 90 degrees on portrait pages; re-rendered rotated for legibility. Page 2 and page 4 are non-table pages (blank reverse side; signature/certification page) with no table rows. Document is an older-style scope (no OKPD2/TNVED codes, all '-'), and has no ТР ТС section headings, so tr_section is null throughout. Columns 4/5 (Код ОКПД2 / Код ТН ВЭД ЕАЭС) are '-' for every row -> mapped to null. Row 4 lists two indicators (cельная кровь + мазок крови) under one numbered row -> split into two JSON rows as instructed."
+}
