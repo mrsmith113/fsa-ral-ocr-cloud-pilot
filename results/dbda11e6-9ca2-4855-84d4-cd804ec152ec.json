@@ -1,0 +1,44 @@
+{
+  "uuid": "dbda11e6-9ca2-4855-84d4-cd804ec152ec",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | Сигнализаторы загазованности природным газом метан CH4 | (5 - 25) % НКПР | ПГ ±5 % НКПР | -",
+      "norm_doc": null,
+      "object": "Сигнализаторы загазованности природным газом",
+      "indicator": "метан CH4",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "5",
+      "range_to": "25",
+      "unit": "% НКПР",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | Сигнализаторы загазованности оксидом углерода CO | (0 - 125) мг/м3 | ПГО ±25 % | -",
+      "norm_doc": null,
+      "object": "Сигнализаторы загазованности оксидом углерода",
+      "indicator": "CO",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "125",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | Сигнализаторы загазованности сжиженным газом бутан C4H10 | (5 - 25) % НКПР | ПГ ±5% НКПР | -",
+      "norm_doc": null,
+      "object": "Сигнализаторы загазованности сжиженным газом",
+      "indicator": "бутан C4H10",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "5",
+      "range_to": "25",
+      "unit": "% НКПР",
+      "tr_section": null
+    }
+  ],
+  "issues": "This scope document is a 'Поверка средств измерений' (measurement-instrument calibration) table, not a typical ТР ТС product-conformity table: it has no norm_doc/okpd2/tnved columns, so those fields are null on every row. Column headers are №, 'Измерения, тип (группа) средств измерений' (split here into object=device/measurement group and indicator=measured substance/component), 'диапазон измерений' (parsed into range_from/range_to/unit), 'погрешность и/или неопределенность измерений (класс, разряд)' (metrological error/uncertainty, e.g. 'ПГ ±5% НКПР' — no schema field fits this, so it is preserved verbatim only in raw_row_text), and 'Примечание' (empty for all rows, shown as '-'). The full-width row 'ИЗМЕРЕНИЯ ФИЗИКО-ХИМИЧЕСКОГО СОСТАВА И СВОЙСТВ ВЕЩЕСТВ' is a category heading but does not match the ТР ТС/Раздел pattern, so tr_section is left null on all rows per instructions. Page 1 holds the full 3-row table; page 2 contains only signature blocks and seals, no table rows. Both pages fully read, no rotation or illegibility issues."
+}
