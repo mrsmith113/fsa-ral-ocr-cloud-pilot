@@ -1,0 +1,152 @@
+{
+  "uuid": "e58056f2-73d5-4f25-9af4-f2471cb2fdc2",
+  "pages_read": 4,
+  "pages_total": 4,
+  "rows": [
+    {
+      "raw_row_text": "1 | Секундомер механический. Паспорт ГРСИ №11519 | Рабочие места | - | - | Время | (0,2-60) с (1-60) мин",
+      "norm_doc": "Секундомер механический. Паспорт ГРСИ №11519",
+      "object": "Рабочие места",
+      "indicator": "Время",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,2",
+      "range_to": "60",
+      "unit": "с",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "1 | Секундомер механический. Паспорт ГРСИ №11519 | Рабочие места | - | - | Время | (0,2-60) с (1-60) мин",
+      "norm_doc": "Секундомер механический. Паспорт ГРСИ №11519",
+      "object": "Рабочие места",
+      "indicator": "Время",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "60",
+      "unit": "мин",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | УМ.000РЭ Руководство по эксплуатации угломера с нониусом типа 1 ГРСИ №67115 | Рабочие места | - | - | Угол наклона | (1-180) °",
+      "norm_doc": "УМ.000РЭ Руководство по эксплуатации угломера с нониусом типа 1 ГРСИ №67115",
+      "object": "Рабочие места",
+      "indicator": "Угол наклона",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "180",
+      "unit": "°",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | Рулетка измерительная металлическая. Паспорт ГРСИ №67047 | Рабочие места | - | - | Расстояние | (0,001-10) м",
+      "norm_doc": "Рулетка измерительная металлическая. Паспорт ГРСИ №67047",
+      "object": "Рабочие места",
+      "indicator": "Расстояние",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,001",
+      "range_to": "10",
+      "unit": "м",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "4 | СН.144.012.000 РЭ и ПС Раздел 7; Весы подвесные ПДВ-15,30 «Ива». Руководство по эксплуатации и Паспорт ГРСИ №61817 | Различные грузы и объекты | - | - | Масса | (0,2-30) кг",
+      "norm_doc": "СН.144.012.000 РЭ и ПС Раздел 7; Весы подвесные ПДВ-15,30 «Ива». Руководство по эксплуатации и Паспорт ГРСИ №61817",
+      "object": "Различные грузы и объекты",
+      "indicator": "Масса",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,2",
+      "range_to": "30",
+      "unit": "кг",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ 12.1.014 | Воздух рабочей зоны | - | - | Хлористый водород | (0,5-15,0) мг/м3",
+      "norm_doc": "ГОСТ 12.1.014",
+      "object": "Воздух рабочей зоны",
+      "indicator": "Хлористый водород",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,5",
+      "range_to": "15,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ 12.1.014 | Воздух рабочей зоны | - | - | Хлороформ (трихлорметан) | (2,0-200) мг/м3",
+      "norm_doc": "ГОСТ 12.1.014",
+      "object": "Воздух рабочей зоны",
+      "indicator": "Хлороформ (трихлорметан)",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "2,0",
+      "range_to": "200",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ 12.1.014 | Воздух рабочей зоны | - | - | Серная кислота | (0,5-5,0) мг/м3",
+      "norm_doc": "ГОСТ 12.1.014",
+      "object": "Воздух рабочей зоны",
+      "indicator": "Серная кислота",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,5",
+      "range_to": "5,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ 12.1.014 | Воздух рабочей зоны | - | - | Азотная кислота | (0,5-40,0) мг/м3",
+      "norm_doc": "ГОСТ 12.1.014",
+      "object": "Воздух рабочей зоны",
+      "indicator": "Азотная кислота",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,5",
+      "range_to": "40,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ 12.1.014 | Воздух рабочей зоны | - | - | Этановая кислота (уксусная кислота) | (2,0-300,0) мг/м3",
+      "norm_doc": "ГОСТ 12.1.014",
+      "object": "Воздух рабочей зоны",
+      "indicator": "Этановая кислота (уксусная кислота)",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "2,0",
+      "range_to": "300,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "6 | ГОСТ 12.1.014 | Воздух рабочей зоны | - | - | Аэрозоли масел | (5,0-50,0) мг/м3",
+      "norm_doc": "ГОСТ 12.1.014",
+      "object": "Воздух рабочей зоны",
+      "indicator": "Аэрозоли масел",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "5,0",
+      "range_to": "50,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "7 | БВЕК.610000.001РЭ Анализатор пыли «АТМАС». Руководство по эксплуатации ГРСИ №61362 | Воздух помещений | - | - | Массовая концентрация пыли | (0,1-150) мг/м3",
+      "norm_doc": "БВЕК.610000.001РЭ Анализатор пыли «АТМАС». Руководство по эксплуатации ГРСИ №61362",
+      "object": "Воздух помещений",
+      "indicator": "Массовая концентрация пыли",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "150",
+      "unit": "мг/м3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Scanned document (no text layer), pages required 90° rotation (+90 relative to stored orientation) to read upright on pages 1-3; page 4 (Rosakkreditatsiya expert signatures, no table data) reads correctly only at +270/-90 and was left as rendered but contains no table rows so this does not affect data. This is an accreditation-scope document (not a ТР ТС testing protocol), so it has no ТР ТС / раздел section headings; tr_section is null for every row per the rules. Row numbering in the source table jumps from № 4 (page 1, 'лист 1 из 2') to № 6 (page 3, 'лист 2 из 2') with no № 5 anywhere in the 4-page scan and page 2 is blank (verso of sheet 1) — this appears to be a genuine gap/omission in the source scan (a row was skipped in numbering or a page is missing from this PDF), not something skipped during transcription; no data was fabricated to fill it. Row 1 (индикатор 'Время') lists two ranges with different units in the same cell ('(0,2-60) с' and '(1-60) мин'); emitted as two separate JSON rows per the one-row-per-range rule. Row 6 (ГОСТ 12.1.014) lists six indicators each with its own range in one numbered table row; emitted as six separate JSON rows, repeating norm_doc/object as instructed. All ОКПД2 and ТН ВЭД ЕАЭС cells in this document are '-' and mapped to null."
+}
