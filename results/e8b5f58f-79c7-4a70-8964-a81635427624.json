@@ -1,0 +1,20 @@
+{
+  "uuid": "e8b5f58f-79c7-4a70-8964-a81635427624",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1.1 | Цистерны автомобильные | от 1900 до 35000 дм³ | U0,95 = 1,8 дм³ | Методика калибровки Цистерны автомобильные МК-ОМС-02-2019",
+      "norm_doc": "Методика калибровки Цистерны автомобильные МК-ОМС-02-2019",
+      "object": "Цистерны автомобильные",
+      "indicator": null,
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1900",
+      "range_to": "35000",
+      "unit": "дм³",
+      "tr_section": null
+    }
+  ],
+  "issues": "This is a калибровка (calibration) accreditation scope document, not a ТР ТС certification/testing table: columns are №, измерения тип(группа) средств измерений, диапазон измерений, неопределенность (погрешность/класс/разряд), примечание — there is no norm_doc/okpd2/tnved/indicator column layout, no ТР ТС section headings present, so tr_section is null for all rows. Mapped 'диапазон измерений' to range_from/range_to/unit, 'неопределенность' value (U0,95 = 1,8 дм³) is not captured by the schema and is only preserved in raw_row_text. Row 1 group heading 'ИЗМЕРЕНИЯ ПАРАМЕТРОВ ПОТОКА, РАСХОДА, УРОВНЯ, ОБЪЕМА ВЕЩЕСТВ' and '1 Средства измерений объема жидкости' are structural headings, not ТР ТС sections, and were not used for tr_section. Only one indicator row (1.1) present on this single-page document; document is not rotated and is fully legible."
+}
