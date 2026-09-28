@@ -1,0 +1,56 @@
+{
+  "uuid": "df1023b6-22e0-45d9-b99e-25eb76d69b62",
+  "pages_read": 3,
+  "pages_total": 3,
+  "rows": [
+    {
+      "raw_row_text": "2.1. | Виброакустические измерения | Приборы виброизмерительные, виброметры и преобразователи виброизмерительные | диапазон измерений: (0 – 480) мкм | погрешность и (или) неопределенность: Погрешность: ПГ ±(3 - 10) % | примечание: -",
+      "norm_doc": "102-ФЗ Об обеспечении единства измерений. 102-ФЗ",
+      "object": "Приборы виброизмерительные, виброметры и преобразователи виброизмерительные",
+      "indicator": "Виброакустические измерения",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "480",
+      "unit": "мкм",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2.1. | Виброакустические измерения | Приборы виброизмерительные, виброметры и преобразователи виброизмерительные | диапазон измерений: (0 – 150) мм/с | погрешность и (или) неопределенность: Погрешность: ПГ ±(3 - 6) % | примечание: -",
+      "norm_doc": "102-ФЗ Об обеспечении единства измерений. 102-ФЗ",
+      "object": "Приборы виброизмерительные, виброметры и преобразователи виброизмерительные",
+      "indicator": "Виброакустические измерения",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "150",
+      "unit": "мм/с",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2.1. | Виброакустические измерения | Приборы виброизмерительные, виброметры и преобразователи виброизмерительные | диапазон измерений: (0 – 200) м/с 2 | погрешность и (или) неопределенность: Погрешность: ПГ ±(3 - 6) % | примечание: -",
+      "norm_doc": "102-ФЗ Об обеспечении единства измерений. 102-ФЗ",
+      "object": "Приборы виброизмерительные, виброметры и преобразователи виброизмерительные",
+      "indicator": "Виброакустические измерения",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "200",
+      "unit": "м/с2",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2.1. | Виброакустические измерения | Приборы виброизмерительные, виброметры и преобразователи виброизмерительные | диапазон измерений: (0 – 2000) Гц | погрешность и (или) неопределенность: [не указана в документе] | примечание: -",
+      "norm_doc": "102-ФЗ Об обеспечении единства измерений. 102-ФЗ",
+      "object": "Приборы виброизмерительные, виброметры и преобразователи виброизмерительные",
+      "indicator": "Виброакустические измерения",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0",
+      "range_to": "2000",
+      "unit": "Гц",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document is a 'Поверка средств измерений (единство измерений)' scope (102-ФЗ), not the standard ОКПД2/ТН ВЭД accreditation-scope table: it has no norm_doc/okpd2/tnved columns per row, only the overarching standard '102-ФЗ Об обеспечении единства измерений' shown once at the top, applied here to all rows. Columns present: N П/П, Измерения, Тип (группа) средств измерений, диапазон измерений, погрешность и (или) неопределенность, Примечание. Section header '2. Поверка средств измерений (ГВФ)' is a category label, not a ТР ТС heading, so tr_section is null throughout. Row 2.1 lists 4 measurement ranges (мкм, мм/с, м/с2, Гц) split into 4 JSON rows, but the source lists only 3 погрешность values for the 4 ranges — the 4th range (0–2000 Гц) has no corresponding accuracy value printed in the PDF (not omitted by us, not present in source). Pages metadata report rotation=90 but rendered pixmaps were already upright; no re-rotation was needed. Page 1 (title/address) and page 3 (signature) have no table rows."
+}
