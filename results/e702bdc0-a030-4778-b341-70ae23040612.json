@@ -1,0 +1,44 @@
+{
+  "uuid": "e702bdc0-a030-4778-b341-70ae23040612",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1. | ПНД Ф 14.1.281-15 | вода сточная | - | - | жиры | 1-1000 мг/м3",
+      "norm_doc": "ПНД Ф 14.1.281-15",
+      "object": "вода сточная",
+      "indicator": "жиры",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "1",
+      "range_to": "1000",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2. | МУК 4.1.1271-03 | воздух рабочей зоны | - | - | фенол | 0,1-5,0 мг/м3",
+      "norm_doc": "МУК 4.1.1271-03",
+      "object": "воздух рабочей зоны",
+      "indicator": "фенол",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,1",
+      "range_to": "5,0",
+      "unit": "мг/м3",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2. | МУК 4.1.1271-03 | атмосферный воздух | - | - | фенол | 0,004-0,2 мг/м3",
+      "norm_doc": "МУК 4.1.1271-03",
+      "object": "атмосферный воздух",
+      "indicator": "фенол",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,004",
+      "range_to": "0,2",
+      "unit": "мг/м3",
+      "tr_section": null
+    }
+  ],
+  "issues": "Page 2 contains only signatures and a seal, no table rows. Row 2 lists two objects (воздух рабочей зоны, атмосферный воздух) with the same indicator (фенол) but different ranges, split into two JSON rows per rules. No ТР ТС section headings present in the document."
+}
