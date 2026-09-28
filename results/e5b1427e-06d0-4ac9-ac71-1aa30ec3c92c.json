@@ -1,0 +1,68 @@
+{
+  "uuid": "e5b1427e-06d0-4ac9-ac71-1aa30ec3c92c",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 34135, п.7 | Рубленые мясные и мясосодержащие кулинарные изделия и полуфабрикаты | 10.13.14.163 | 160100, 1602 | Массовая доля хлеба | (0,6-40,0)%",
+      "norm_doc": "ГОСТ 34135, п.7",
+      "object": "Рубленые мясные и мясосодержащие кулинарные изделия и полуфабрикаты",
+      "indicator": "Массовая доля хлеба",
+      "okpd2_code": "10.13.14.163",
+      "tnved_code": "160100, 1602",
+      "range_from": "0,6",
+      "range_to": "40,0",
+      "unit": "%",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ 31657, п.6.4 | Субпродукты птицы пищевые | 10.12.10-10.12.40 | 0207 | Органолептические показатели: внешний вид | -",
+      "norm_doc": "ГОСТ 31657, п.6.4",
+      "object": "Субпродукты птицы пищевые",
+      "indicator": "Органолептические показатели: внешний вид",
+      "okpd2_code": "10.12.10-10.12.40",
+      "tnved_code": "0207",
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ 31657, п.6.4 | Субпродукты птицы пищевые | 10.12.10-10.12.40 | 0207 | Органолептические показатели: цвет | -",
+      "norm_doc": "ГОСТ 31657, п.6.4",
+      "object": "Субпродукты птицы пищевые",
+      "indicator": "Органолептические показатели: цвет",
+      "okpd2_code": "10.12.10-10.12.40",
+      "tnved_code": "0207",
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ 31657, п.6.4 | Субпродукты птицы пищевые | 10.12.10-10.12.40 | 0207 | Органолептические показатели: запах | -",
+      "norm_doc": "ГОСТ 31657, п.6.4",
+      "object": "Субпродукты птицы пищевые",
+      "indicator": "Органолептические показатели: запах",
+      "okpd2_code": "10.12.10-10.12.40",
+      "tnved_code": "0207",
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ГОСТ 31467, п.6 | Мясо птицы, пищевые субпродукты и полуфабрикаты из мяса и пищевых субпродуктов птицы | - | - | Пробоподготовка | -",
+      "norm_doc": "ГОСТ 31467, п.6",
+      "object": "Мясо птицы, пищевые субпродукты и полуфабрикаты из мяса и пищевых субпродуктов птицы",
+      "indicator": "Пробоподготовка",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": null,
+      "range_to": null,
+      "unit": null,
+      "tr_section": null
+    }
+  ],
+  "issues": "Single-page document (pages_total=1). Page content was stored sideways (embedded rotated 90° from portrait, page.rotation attribute was 0); re-rendered with an added 90° rotation to read upright. No ТР ТС section headings present in the table — only lab-address heading rows (e.g. '214018, Россия, Смоленская область, г. Смоленск, ул.Тенишевой, д.26, литера Ж'), which per instructions are not used as tr_section, so tr_section is null on all rows. Row 3 (ГОСТ 31467, п.6) has no ОКПД2/ТН ВЭД codes printed in its own cells (blank/merged region below row 2's codes), so both are null for that row rather than inherited from row 2."
+}
