@@ -1,0 +1,32 @@
+{
+  "uuid": "df3c6338-c354-4cee-a659-18f9f6cd8a5d",
+  "pages_read": 2,
+  "pages_total": 2,
+  "rows": [
+    {
+      "raw_row_text": "1 | ГОСТ 22688-77 п. 2.1 | Известь строительная | 08.11.20.110 | - | Суммарное содержание активных окисей кальция и магния | (40 - 100) % | ГОСТ 9179-77",
+      "norm_doc": "ГОСТ 22688-77 п. 2.1",
+      "object": "Известь строительная",
+      "indicator": "Суммарное содержание активных окисей кальция и магния",
+      "okpd2_code": "08.11.20.110",
+      "tnved_code": null,
+      "range_from": "40",
+      "range_to": "100",
+      "unit": "%",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ГОСТ 596-89 п. 3.4 | Натрий сернистый технический | 20.13.41.110 | - | Массовая доля сернистого натрия | (40 - 80) % | ГОСТ 596-89",
+      "norm_doc": "ГОСТ 596-89 п. 3.4",
+      "object": "Натрий сернистый технический",
+      "indicator": "Массовая доля сернистого натрия",
+      "okpd2_code": "20.13.41.110",
+      "tnved_code": null,
+      "range_from": "40",
+      "range_to": "80",
+      "unit": "%",
+      "tr_section": null
+    }
+  ],
+  "issues": "Document has only 1 content page (Приложение №2, лист 1 of 1) with 2 table rows; page 2 is a signature/seal page with no table data, confirmed empty. No ТР ТС section headings present in the table, so tr_section is null for all rows. ТН ВЭД ТС column shown as \"-\" (null) for both rows."
+}
