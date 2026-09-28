@@ -1,0 +1,80 @@
+{
+  "uuid": "e2115cf0-858b-47c8-81ae-cf784636a79b",
+  "pages_read": 1,
+  "pages_total": 1,
+  "rows": [
+    {
+      "raw_row_text": "1 | ПНД Ф 16.1:2:2.2:3.51-08 | Почвы, Грунты, Донные отложения, Илы | - | - | Азот нитритный | (0,037-0,56) мг/кг",
+      "norm_doc": "ПНД Ф 16.1:2:2.2:3.51-08",
+      "object": "Почвы, Грунты, Донные отложения, Илы",
+      "indicator": "Азот нитритный",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,037",
+      "range_to": "0,56",
+      "unit": "мг/кг",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ПНД Ф 16.1:2:2.2:3.67-10 | Почвы, Грунты, Донные отложения, Илы | - | - | Азот нитратный | (0,23-23) млн-1",
+      "norm_doc": "ПНД Ф 16.1:2:2.2:3.67-10",
+      "object": "Почвы, Грунты, Донные отложения, Илы",
+      "indicator": "Азот нитратный",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,23",
+      "range_to": "23",
+      "unit": "млн-1",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "2 | ПНД Ф 16.1:2:2.2:3.67-10 | Почвы, Грунты, Донные отложения, Илы | - | - | Азот нитратный | (0,23-23) мг/кг",
+      "norm_doc": "ПНД Ф 16.1:2:2.2:3.67-10",
+      "object": "Почвы, Грунты, Донные отложения, Илы",
+      "indicator": "Азот нитратный",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,23",
+      "range_to": "23",
+      "unit": "мг/кг",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ПНД Ф 16.1:2:2.2:2.3:3.64-10 | Почвы, Грунты, Донные отложения, Илы, Осадки сточных вод | - | - | Нефтепродукты | (20,0-50000) млн-1",
+      "norm_doc": "ПНД Ф 16.1:2:2.2:2.3:3.64-10",
+      "object": "Почвы, Грунты, Донные отложения, Илы, Осадки сточных вод",
+      "indicator": "Нефтепродукты",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "20,0",
+      "range_to": "50000",
+      "unit": "млн-1",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ПНД Ф 16.1:2:2.2:2.3:3.64-10 | Почвы, Грунты, Донные отложения, Илы, Осадки сточных вод | - | - | Нефтепродукты | (20,0-50000) мг/кг",
+      "norm_doc": "ПНД Ф 16.1:2:2.2:2.3:3.64-10",
+      "object": "Почвы, Грунты, Донные отложения, Илы, Осадки сточных вод",
+      "indicator": "Нефтепродукты",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "20,0",
+      "range_to": "50000",
+      "unit": "мг/кг",
+      "tr_section": null
+    },
+    {
+      "raw_row_text": "3 | ПНД Ф 16.1:2:2.2:2.3:3.64-10 | Отходы | - | - | Нефтепродукты | (0,02-100,0)%",
+      "norm_doc": "ПНД Ф 16.1:2:2.2:2.3:3.64-10",
+      "object": "Отходы",
+      "indicator": "Нефтепродукты",
+      "okpd2_code": null,
+      "tnved_code": null,
+      "range_from": "0,02",
+      "range_to": "100,0",
+      "unit": "%",
+      "tr_section": null
+    }
+  ],
+  "issues": "Single-page document (pages_total=1). Page was scanned rotated 90 degrees; re-rendered upright (rotation+90) to transcribe. Row 3 in the printed table combines multiple object types (Почвы/Грунты/Донные отложения/Илы/Осадки сточных вод and, separately, Отходы) with the same indicator (Нефтепродукты) but different measurement units (млн-1, мг/кг, %); split into 3 JSON rows accordingly, mirroring the same approach used for row 2 (Азот нитратный) which lists two units for one indicator. ОКПД2 and ТН ВЭД ЕАЭС code columns are '-' (null) for all rows. No ТР ТС / раздел section headings appear on this page, so tr_section is null throughout (the full-width address row '443011, РФ, Самарская область...' is a lab-address heading, not a ТР ТС section, per instructions)."
+}
